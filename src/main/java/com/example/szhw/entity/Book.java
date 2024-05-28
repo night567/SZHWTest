@@ -4,6 +4,7 @@ public class Book {
     private Long id;
     private String name;
     private String type;
+    private String Test;
     private Integer testInteger;
 
 //    test
