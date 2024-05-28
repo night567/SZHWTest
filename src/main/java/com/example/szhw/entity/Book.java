@@ -7,7 +7,7 @@ public class Book {
     private String type;
     private String Test;
     private Integer testInteger;
-    private Double testDouble;
+
 //    test
     public Long getId() {
         return id;
