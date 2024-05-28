@@ -4,7 +4,7 @@ public class Book {
     private Long id;
     private String name;
     private String type;
-
+    private String Test;
     public Long getId() {
         return id;
     }
