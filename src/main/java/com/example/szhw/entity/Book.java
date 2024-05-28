@@ -1,6 +1,7 @@
 package com.example.szhw.entity;
 
 public class Book {
+//    测试合并
     private Long id;
     private String name;
     private String type;
