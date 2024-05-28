@@ -5,10 +5,11 @@ public class Book {
     private String name;
     private String type;
     private Integer testInteger;
+    private String Testtype;
     public Long getId() {
         return id;
     }
-//测试合并
+// test Merge
     public void setId(Long id) {
         this.id = id;
     }
