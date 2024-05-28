@@ -4,7 +4,8 @@ public class Book {
     private Long id;
     private String name;
     private String type;
-//    测试合并
+
+
     public Long getId() {
         return id;
     }
@@ -16,7 +17,7 @@ public class Book {
     public String getName() {
         return name;
     }
-
+// 测试合并冲突问题 ywf
     public void setName(String name) {
         this.name = name;
     }
